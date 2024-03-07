@@ -16,5 +16,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/moonleaks/Script/main
 MainSection:NewButton("Autofish Script V3 - UPDATED SCRIPTS", "Loading script...", function()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/moonleaks/Script/main/AutoFishV3BETA.lua"))()
+            
+MainSection:NewButton("RedZHub Modded - UPDATED SCRIPTS", "Loading script...", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moonleaks/Script/main/RedZHubModded.lua"))()
 
 end)
