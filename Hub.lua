@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Mori Scripts | :blossom: Pet Simulator 99! :blossom: ", "Midnight")
+local Window = Library.CreateLib("Crystal Scripts | :blossom: Pet Simulator 99! :blossom: ", "Midnight")
 
 -- MAIN
 local Main = Window:NewTab("Scripts")
